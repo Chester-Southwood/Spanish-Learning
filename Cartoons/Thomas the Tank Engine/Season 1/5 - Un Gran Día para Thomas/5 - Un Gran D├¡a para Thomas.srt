@@ -1,0 +1,451 @@
+1
+00:00:01,550 --> 00:00:03,550
+¡Un gran día para Thomas!
+
+2
+00:00:04,490 --> 00:00:06,770
+Thomas, la locomotora, se quejaba a las otras
+
+3
+00:00:06,770 --> 00:00:07,510
+locomotoras.
+
+4
+00:00:07,750 --> 00:00:09,710
+¿Me la vas empujando bajones para que estén
+
+5
+00:00:09,710 --> 00:00:11,510
+listos para que ustedes salgan de viaje?
+
+6
+00:00:12,150 --> 00:00:13,910
+Las otras locomotoras se rieron.
+
+7
+00:00:14,630 --> 00:00:16,830
+¿Por qué no puedo conducir trenes de pasajeros
+
+8
+00:00:16,830 --> 00:00:17,330
+yo también?
+
+9
+00:00:17,770 --> 00:00:19,130
+Eres demasiado impaciente.
+
+10
+00:00:19,310 --> 00:00:19,890
+Le dijeron.
+
+11
+00:00:20,170 --> 00:00:21,630
+Seguramente te olvidarás de algo.
+
+12
+00:00:22,150 --> 00:00:23,510
+Mentiras, dijo Thomas.
+
+13
+00:00:23,830 --> 00:00:24,490
+Ya verán.
+
+14
+00:00:25,670 --> 00:00:28,450
+Una noche, él y Henry se quedaron solos.
+
+15
+00:00:28,450 --> 00:00:30,430
+Henry estaba enfermo.
+
+16
+00:00:30,970 --> 00:00:34,250
+Los hombres trabajaron mucho, pero no lograron curarlo.
+
+17
+00:00:39,300 --> 00:00:42,480
+A la mañana siguiente, Henry seguía sintiéndose mal.
+
+18
+00:00:42,940 --> 00:00:45,280
+Henry solía llevar el primer tren, y Thomas
+
+19
+00:00:45,280 --> 00:00:46,940
+debía prepararle los vagones.
+
+20
+00:00:47,900 --> 00:00:50,740
+Como Henry está enfermo, pensó, tal vez yo
+
+21
+00:00:50,740 --> 00:00:51,640
+deba llevar su tren.
+
+22
+00:00:53,840 --> 00:00:56,000
+Thomas corrió a buscar los vagones.
+
+23
+00:00:58,940 --> 00:01:00,040
+¡Rápido, rápido!
+
+24
+00:01:00,160 --> 00:01:00,480
+decía.
+
+25
+00:01:01,740 --> 00:01:02,880
+¡Buen tiempo, buen tiempo!
+
+26
+00:01:03,080 --> 00:01:03,680
+refunfuñaron.
+
+27
+00:01:05,120 --> 00:01:07,520
+Thomas los llevó a la plataforma y quiso
+
+28
+00:01:07,520 --> 00:01:09,520
+correr para colocarse adelante enseguida.
+
+29
+00:01:11,020 --> 00:01:13,260
+Pero su maquinista no se lo permitió.
+
+30
+00:01:13,500 --> 00:01:14,580
+¡No seas impaciente, Thomas!
+
+31
+00:01:15,160 --> 00:01:16,920
+Thomas esperó y esperó.
+
+32
+00:01:17,840 --> 00:01:19,320
+La gente subió a los vagones.
+
+33
+00:01:19,720 --> 00:01:21,280
+El maquinista y el jefe de la estación
+
+34
+00:01:21,280 --> 00:01:22,200
+iban y venían.
+
+35
+00:01:22,500 --> 00:01:24,280
+El guarda cerró las puertas con fuerza.
+
+36
+00:01:24,900 --> 00:01:26,280
+Pero Henry no venía.
+
+37
+00:01:26,580 --> 00:01:28,180
+Thomas estaba cada vez más nervioso.
+
+38
+00:01:29,420 --> 00:01:31,880
+El inspector gordo vino a ver qué ocurría.
+
+39
+00:01:32,340 --> 00:01:33,600
+Y el maquinista y el jefe de la
+
+40
+00:01:33,600 --> 00:01:35,080
+estación le contaron sobre Henry.
+
+41
+00:01:35,720 --> 00:01:37,200
+¡Busquen otra locomotora!
+
+42
+00:01:37,360 --> 00:01:37,800
+ordenó.
+
+43
+00:01:38,480 --> 00:01:39,840
+¡La única que queda es Thomas!
+
+44
+00:01:40,000 --> 00:01:40,320
+dijeron.
+
+45
+00:01:40,700 --> 00:01:42,480
+¡Entonces tendrás que hacerlo tú, Thomas!
+
+46
+00:01:45,000 --> 00:01:47,420
+Thomas se ubicó inmediatamente al frente de los
+
+47
+00:01:47,420 --> 00:01:49,920
+vagones y dio marcha atrás listo para partir.
+
+48
+00:01:50,480 --> 00:01:51,360
+¡No seas impaciente!
+
+49
+00:01:51,680 --> 00:01:52,520
+dijo su maquinista.
+
+50
+00:01:52,680 --> 00:01:54,420
+¡Esperaremos hasta que esté todo listo!
+
+51
+00:01:54,700 --> 00:01:56,960
+Pero Thomas estaba demasiado feliz para escuchar.
+
+52
+00:01:59,660 --> 00:02:01,560
+Nadie sabe con certeza qué ocurrió.
+
+53
+00:02:02,460 --> 00:02:04,460
+Tal vez se hayan olvidado de enganchar a
+
+54
+00:02:04,460 --> 00:02:05,100
+Thomas al tren.
+
+55
+00:02:05,620 --> 00:02:07,460
+O tal vez el maquinista jaló de la
+
+56
+00:02:07,460 --> 00:02:08,320
+palanca por error.
+
+57
+00:02:09,139 --> 00:02:11,220
+Sea como sea, Thomas arrancó.
+
+58
+00:02:11,660 --> 00:02:13,260
+Y cuando llegó a la primera garita de
+
+59
+00:02:13,260 --> 00:02:15,740
+señalización, los hombres le hicieron gestos con las
+
+60
+00:02:15,740 --> 00:02:16,680
+manos y le gritaron.
+
+61
+00:02:17,120 --> 00:02:18,860
+Pero Thomas no se detuvo.
+
+62
+00:02:19,560 --> 00:02:22,000
+¡Me saludan porque soy una locomotora magnífica!
+
+63
+00:02:22,040 --> 00:02:23,240
+pensó dándose importancia.
+
+64
+00:02:23,740 --> 00:02:25,800
+Él me dice que arrastrar trenes es un
+
+65
+00:02:25,800 --> 00:02:27,620
+trabajo muy duro, pero a mí me parece
+
+66
+00:02:27,620 --> 00:02:28,240
+sencillo.
+
+67
+00:02:28,480 --> 00:02:29,480
+¡Vamos, vamos, vamos!
+
+68
+00:02:29,640 --> 00:02:30,920
+resoplaba imitando a Gordon.
+
+69
+00:02:31,960 --> 00:02:34,240
+La gente nunca me había visto conduciendo un
+
+70
+00:02:34,240 --> 00:02:34,400
+tren.
+
+71
+00:02:34,860 --> 00:02:36,360
+Son muy amables al saludarme.
+
+72
+00:02:36,620 --> 00:02:37,160
+Y silbaba.
+
+73
+00:02:37,480 --> 00:02:37,940
+¡No, no!
+
+74
+00:02:38,420 --> 00:02:38,820
+¡Gracias!
+
+75
+00:02:43,920 --> 00:02:46,640
+Luego llegó a una señal que indicaba peligro.
+
+76
+00:02:47,900 --> 00:02:48,540
+¡Qué pena!
+
+77
+00:02:48,680 --> 00:02:49,000
+pensó.
+
+78
+00:02:49,160 --> 00:02:50,840
+¡Tener que detenerme con lo bien que iba!
+
+79
+00:02:51,160 --> 00:02:52,800
+¡Qué molestas que son las señales!
+
+80
+00:02:53,240 --> 00:02:56,180
+Soltó un pip-pip enojado con su silbato.
+
+81
+00:02:56,940 --> 00:02:58,740
+El guardavía corrió a su encuentro.
+
+82
+00:02:59,160 --> 00:02:59,680
+¡Hola, Thomas!
+
+83
+00:02:59,920 --> 00:03:00,160
+dijo.
+
+84
+00:03:00,280 --> 00:03:00,880
+¿Qué haces aquí?
+
+85
+00:03:01,480 --> 00:03:03,340
+Estoy llevando un tren, dijo Thomas.
+
+86
+00:03:03,380 --> 00:03:03,940
+¿No lo ves?
+
+87
+00:03:04,840 --> 00:03:06,500
+¿Y dónde están tus vagones entonces?
+
+88
+00:03:07,200 --> 00:03:08,420
+Thomas miró hacia atrás.
+
+89
+00:03:09,140 --> 00:03:09,960
+¡Dios mío!
+
+90
+00:03:10,100 --> 00:03:10,340
+dijo.
+
+91
+00:03:10,720 --> 00:03:11,980
+¡Parece que me los olvidé!
+
+92
+00:03:12,620 --> 00:03:12,920
+¡Sí!
+
+93
+00:03:13,360 --> 00:03:14,380
+dijo el guardavía.
+
+94
+00:03:14,840 --> 00:03:16,420
+Mejor regresa enseguida a buscarlos.
+
+95
+00:03:18,240 --> 00:03:20,800
+El pobre Thomas estaba tan triste que casi
+
+96
+00:03:20,800 --> 00:03:21,680
+se echa a llorar.
+
+97
+00:03:21,680 --> 00:03:22,800
+¡Arriba el ánimo!
+
+98
+00:03:23,060 --> 00:03:23,960
+le dijo el maquinista.
+
+99
+00:03:24,320 --> 00:03:26,000
+¡Regresemos deprisa y volvamos a probar!
+
+100
+00:03:44,860 --> 00:03:48,380
+En la estación todos los pasajeros hablaban a
+
+101
+00:03:48,380 --> 00:03:48,720
+la vez.
+
+102
+00:03:48,720 --> 00:03:50,960
+Le decían al inspector gordo que ese era
+
+103
+00:03:50,960 --> 00:03:52,360
+un ferrocarril muy malo.
+
+104
+00:03:52,580 --> 00:03:54,640
+Pero cuando llegó Thomas vieron que estaba muy
+
+105
+00:03:54,640 --> 00:03:56,880
+triste y no pudieron enfadarse con él.
+
+106
+00:03:57,420 --> 00:03:59,220
+Lo engancharon al tren y esta vez sí
+
+107
+00:03:59,220 --> 00:03:59,860
+lo arrastró.
+
+108
+00:04:12,040 --> 00:04:14,940
+Pero durante mucho tiempo las otras locomotoras se
+
+109
+00:04:14,940 --> 00:04:16,380
+rieron de Thomas y le decían.
+
+110
+00:04:16,380 --> 00:04:16,839
+¡Miren!
+
+111
+00:04:17,019 --> 00:04:17,920
+¡Ahí está Thomas!
+
+112
+00:04:18,140 --> 00:04:19,640
+El que quería conducir un tren pero se
+
+113
+00:04:19,640 --> 00:04:20,839
+olvidó los vagones.

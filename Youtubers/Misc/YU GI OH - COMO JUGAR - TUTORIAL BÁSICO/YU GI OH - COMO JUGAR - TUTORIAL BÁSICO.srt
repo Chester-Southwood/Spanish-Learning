@@ -1,0 +1,1359 @@
+1
+00:00:00,230 --> 00:00:02,130
+Hoy vengo a enseñaros como jugar a Yu
+
+2
+00:00:02,130 --> 00:00:02,350
+-Gi-Oh!
+
+3
+00:00:02,510 --> 00:00:04,510
+Eso si, vamos a empezar con barajas de
+
+4
+00:00:04,510 --> 00:00:06,710
+iniciación y hay reglas que con el juego
+
+5
+00:00:06,710 --> 00:00:09,710
+avanzado todavía no van a estar presentes.
+
+6
+00:00:10,050 --> 00:00:11,250
+Hoy os voy a enseñar lo más simple,
+
+7
+00:00:11,370 --> 00:00:13,970
+como empezar, las primeras rondas, las primeras partidas
+
+8
+00:00:13,970 --> 00:00:15,790
+para que sepáis como ir y si no
+
+9
+00:00:15,790 --> 00:00:18,390
+habéis jugado nunca yo os recomiendo estas barajas
+
+10
+00:00:18,390 --> 00:00:20,250
+de Yu-Gi-Oh!, que son por ejemplo
+
+11
+00:00:20,250 --> 00:00:22,210
+la de Yoi y la de Pegasus.
+
+12
+00:00:22,350 --> 00:00:23,910
+También hay otras como la de Yugi, la
+
+13
+00:00:23,910 --> 00:00:26,170
+de Kaiba, podéis coger cualquiera de estas, pero
+
+14
+00:00:26,170 --> 00:00:28,490
+siempre cogiendo alguna de algún personaje concreto de
+
+15
+00:00:28,490 --> 00:00:31,189
+la serie porque van a tener elementos simplificados
+
+16
+00:00:31,189 --> 00:00:32,170
+de lo que es todo el juego y
+
+17
+00:00:32,170 --> 00:00:34,570
+para empezar a jugarlo está muy bien.
+
+18
+00:00:35,070 --> 00:00:36,330
+¿Qué os va a hacer falta para jugar
+
+19
+00:00:36,330 --> 00:00:37,250
+a Yu-Gi-Oh!
+
+20
+00:00:37,450 --> 00:00:38,650
+aparte de dos barajas?
+
+21
+00:00:38,770 --> 00:00:40,010
+Una para cada jugador, os va a hacer
+
+22
+00:00:40,010 --> 00:00:43,290
+falta una calculadora, aplicación, libretita lo que queráis
+
+23
+00:00:43,290 --> 00:00:46,390
+para apuntar la salud que vais a ir
+
+24
+00:00:46,390 --> 00:00:47,450
+llevando en cada momento.
+
+25
+00:00:47,990 --> 00:00:50,190
+Vamos a pasar a la cámara cenital y
+
+26
+00:00:50,190 --> 00:00:53,690
+mientras tanto recordaros que suscribirse es totalmente gratis.
+
+27
+00:00:53,810 --> 00:00:54,790
+En una partida de Yu-Gi-Oh!
+
+28
+00:00:54,790 --> 00:00:56,750
+cada jugador empieza con 8000 puntos de salud
+
+29
+00:00:56,750 --> 00:00:59,230
+y aquel jugador que llegue a 0 puntos
+
+30
+00:00:59,230 --> 00:01:01,330
+de salud será derrotado y el otro jugador
+
+31
+00:01:01,330 --> 00:01:02,570
+será el vencedor.
+
+32
+00:01:02,870 --> 00:01:06,290
+Para conseguir esto utilizaremos cartas que tenemos en
+
+33
+00:01:06,290 --> 00:01:09,390
+nuestro mazo que va desde 40 a 60
+
+34
+00:01:09,390 --> 00:01:10,210
+cartas.
+
+35
+00:01:10,730 --> 00:01:13,270
+Entre estas cartas también encontraremos algunas que irán
+
+36
+00:01:13,270 --> 00:01:15,030
+fuera del mazo como por ejemplo estas de
+
+37
+00:01:15,030 --> 00:01:16,990
+fusión que vendrán a esta zona.
+
+38
+00:01:17,450 --> 00:01:19,970
+En esta zona de fusión podremos poner todas
+
+39
+00:01:19,970 --> 00:01:21,930
+estas cartas que sean de color morado, que
+
+40
+00:01:21,930 --> 00:01:24,250
+son monstruos de color morado y que para
+
+41
+00:01:24,250 --> 00:01:27,850
+poder ser invocadas tendremos que jugar cartas especiales
+
+42
+00:01:27,850 --> 00:01:30,790
+que tendremos dentro de nuestro mazo.
+
+43
+00:01:31,310 --> 00:01:34,870
+En este mazo para empezar una partida barajaremos
+
+44
+00:01:34,870 --> 00:01:38,450
+todos los mazos los dos jugadores barajamos yo
+
+45
+00:01:38,450 --> 00:01:40,530
+lo pondría en esta zona y el otro
+
+46
+00:01:40,530 --> 00:01:43,730
+jugador lo pondría en su otra zona de
+
+47
+00:01:43,730 --> 00:01:44,150
+deck.
+
+48
+00:01:44,590 --> 00:01:47,510
+Cada jugador robaría 5 cartas 1, 2, 3,
+
+49
+00:01:47,770 --> 00:01:50,750
+4, 5 y el otro jugador lo mismo
+
+50
+00:01:50,750 --> 00:01:53,930
+1, 2, 3, 4, 5 y ya podría
+
+51
+00:01:53,930 --> 00:01:55,870
+dar comienzo la partida.
+
+52
+00:01:56,150 --> 00:01:58,510
+¿Qué podremos hacer en nuestra ronda?
+
+53
+00:01:58,650 --> 00:02:00,450
+Hay varias fases en el juego pero lo
+
+54
+00:02:00,450 --> 00:02:02,130
+más importante que debemos saber, a no ser
+
+55
+00:02:02,130 --> 00:02:05,290
+que haya alguna carta que mencione una fase
+
+56
+00:02:05,290 --> 00:02:07,250
+concreta, en cuyo caso ya miraremos donde se
+
+57
+00:02:07,250 --> 00:02:09,389
+encuentra esa fase que por lo general esto
+
+58
+00:02:09,389 --> 00:02:11,750
+no suele pasar lo que debemos saber es
+
+59
+00:02:11,750 --> 00:02:13,790
+que cuando empieza un jugador, vamos a imaginar
+
+60
+00:02:13,790 --> 00:02:16,430
+que empiezo yo, yo podré invocar en mi
+
+61
+00:02:16,430 --> 00:02:19,570
+turno un monstruo por ejemplo, tengo aquí este
+
+62
+00:02:19,570 --> 00:02:23,930
+monstruo podría invocar un monstruo y podría bajar
+
+63
+00:02:23,930 --> 00:02:26,490
+tantas cartas de trampa y de mágicas como
+
+64
+00:02:26,490 --> 00:02:27,090
+me diera la gana.
+
+65
+00:02:27,610 --> 00:02:29,150
+¿Qué son los monstruos y qué son las
+
+66
+00:02:29,150 --> 00:02:30,050
+cartas mágicas?
+
+67
+00:02:30,150 --> 00:02:33,210
+Las cartas mágicas son todas aquellas que no
+
+68
+00:02:33,210 --> 00:02:35,670
+tengan un nivel tenemos cartas de monstruo que
+
+69
+00:02:35,670 --> 00:02:37,910
+tienen aquí un nivel representado aquí arriba y
+
+70
+00:02:37,910 --> 00:02:39,750
+un montón de cartas mágicas que no tienen
+
+71
+00:02:39,750 --> 00:02:41,050
+ningún tipo de nivel.
+
+72
+00:02:41,490 --> 00:02:44,890
+Como veis estas son mágicas de color azul
+
+73
+00:02:44,890 --> 00:02:47,390
+turquesa y luego hay algunas otras que son
+
+74
+00:02:47,910 --> 00:02:50,770
+moradas que son trampas, siguen siendo cartas mágicas
+
+75
+00:02:50,770 --> 00:02:52,590
+pero son trampas que se activan con algún
+
+76
+00:02:52,590 --> 00:02:55,090
+tipo de condición o en alguna fase concreta
+
+77
+00:02:55,090 --> 00:02:57,310
+estos dos tipos de colores son los que
+
+78
+00:02:57,310 --> 00:02:59,430
+encontraremos como trampas, puede haber algún color especial
+
+79
+00:02:59,430 --> 00:03:01,230
+más pero en estos mazos básicos no los
+
+80
+00:03:01,230 --> 00:03:03,670
+vamos a encontrar y bueno, vamos a seguir
+
+81
+00:03:03,670 --> 00:03:04,930
+explicando cómo jugamos.
+
+82
+00:03:05,090 --> 00:03:06,630
+He cogido cartas por demás así que me
+
+83
+00:03:06,630 --> 00:03:08,110
+voy a quedar con esas y por ejemplo,
+
+84
+00:03:08,590 --> 00:03:10,130
+estas dos cartas si yo he bajado, ¿puedo
+
+85
+00:03:10,130 --> 00:03:10,910
+bajar en mi turno?
+
+86
+00:03:11,270 --> 00:03:14,370
+Puedo bajar un monstruo y solamente un monstruo
+
+87
+00:03:14,370 --> 00:03:18,070
+con una invocación normal y puedo jugar tantas
+
+88
+00:03:18,070 --> 00:03:21,790
+cartas como quiera en mi zona de cartas
+
+89
+00:03:21,790 --> 00:03:24,130
+de zonas mágicas, por ejemplo tengo aquí un
+
+90
+00:03:24,130 --> 00:03:26,350
+agujero oscuro que destruye a todos los monstruos
+
+91
+00:03:26,350 --> 00:03:28,250
+en el campo pues lo podría poner boca
+
+92
+00:03:28,250 --> 00:03:30,330
+abajo para jugarla en cualquier momento que yo
+
+93
+00:03:30,330 --> 00:03:33,630
+considerara necesario y esta por ejemplo que hace
+
+94
+00:03:33,630 --> 00:03:35,930
+Dian Keto, el señora de la curación que
+
+95
+00:03:35,930 --> 00:03:37,750
+hace que aumenta los life points en mil
+
+96
+00:03:37,750 --> 00:03:38,130
+puntos.
+
+97
+00:03:38,670 --> 00:03:40,870
+Cuando juegas una carta mágica puedes jugarla directamente
+
+98
+00:03:40,870 --> 00:03:43,650
+boca arriba aplicar su efecto y después eliminarla
+
+99
+00:03:43,650 --> 00:03:45,410
+al cementerio o bien como hemos dicho, la
+
+100
+00:03:45,410 --> 00:03:49,450
+puedes colocar boca abajo para posteriormente activarla cuando
+
+101
+00:03:49,450 --> 00:03:50,070
+te dé la gana.
+
+102
+00:03:50,550 --> 00:03:52,230
+Así de simple es jugar a Yugioh.
+
+103
+00:03:52,350 --> 00:03:54,330
+Una cosa respecto a los monstruos es la
+
+104
+00:03:54,330 --> 00:03:57,190
+siguiente cuando invocamos un monstruo podemos hacerlo de
+
+105
+00:03:57,190 --> 00:03:57,850
+varias formas.
+
+106
+00:03:58,250 --> 00:04:00,610
+Lo podemos hacer jugándolo boca arriba que sería
+
+107
+00:04:00,610 --> 00:04:03,150
+en posición de ataque o lo podríamos jugar
+
+108
+00:04:03,150 --> 00:04:07,170
+boca abajo y girado en posición de defensa
+
+109
+00:04:07,170 --> 00:04:09,630
+en turnos posteriores si lo tenemos en esta
+
+110
+00:04:09,630 --> 00:04:12,570
+posición le podremos dar la vuelta en posición
+
+111
+00:04:12,570 --> 00:04:14,730
+de defensa para activar alguna de las sus
+
+112
+00:04:14,730 --> 00:04:17,510
+habilidades que pudiera tener en la carta hay
+
+113
+00:04:17,510 --> 00:04:19,370
+una habilidad que pone volteo en algunas de
+
+114
+00:04:19,370 --> 00:04:21,250
+estas cartas que se activan al darle la
+
+115
+00:04:21,250 --> 00:04:25,210
+vuelta si lo tenemos en ataque lo que
+
+116
+00:04:25,210 --> 00:04:27,230
+haremos será fijarnos en el número de ataque
+
+117
+00:04:27,230 --> 00:04:30,030
+de esta zona de aquí y este será
+
+118
+00:04:30,030 --> 00:04:33,830
+el valor acorde a este monstruo mientras que
+
+119
+00:04:33,830 --> 00:04:35,810
+si estamos en defensa lo que nos importará
+
+120
+00:04:35,810 --> 00:04:38,470
+será el valor de la defensa y el
+
+121
+00:04:38,470 --> 00:04:40,870
+valor de ataque no lo utilizaremos en ningún
+
+122
+00:04:40,870 --> 00:04:42,030
+momento para nada.
+
+123
+00:04:42,190 --> 00:04:44,650
+Una vez jugado el primer turno, el primer
+
+124
+00:04:44,650 --> 00:04:47,030
+jugador que empieza la partida nunca puede atacar
+
+125
+00:04:47,030 --> 00:04:48,890
+es importante porque si no el primer jugador
+
+126
+00:04:48,890 --> 00:04:49,710
+tendría ventaja.
+
+127
+00:04:50,270 --> 00:04:52,330
+Entonces yo como primer jugador habría bajado a
+
+128
+00:04:52,330 --> 00:04:54,330
+este monstruo y ya no podría atacar a
+
+129
+00:04:54,330 --> 00:04:56,790
+mi rival le tocaría a mi rival mi
+
+130
+00:04:56,790 --> 00:04:59,550
+rival miraría su mano y solamente tiene un
+
+131
+00:04:59,550 --> 00:05:02,170
+monstruo por lo que decidiría bajarlo por ejemplo
+
+132
+00:05:02,170 --> 00:05:05,370
+en ataque, lo podría poner aquí en ataque
+
+133
+00:05:05,370 --> 00:05:07,770
+y podría decir pues bajo una carta trampa
+
+134
+00:05:07,770 --> 00:05:09,470
+aquí, bueno diría carta mágica para que nadie
+
+135
+00:05:09,470 --> 00:05:10,830
+sepa si es carta mágica o carta de
+
+136
+00:05:10,830 --> 00:05:13,770
+trampa y bajaría otra por ejemplo ahí y
+
+137
+00:05:13,770 --> 00:05:15,030
+las otras dos se las quedaría en la
+
+138
+00:05:15,030 --> 00:05:15,210
+mano.
+
+139
+00:05:16,330 --> 00:05:18,090
+Como él es el turno de mi rival
+
+140
+00:05:18,490 --> 00:05:20,150
+y no es el primer jugador, él sí
+
+141
+00:05:20,150 --> 00:05:21,930
+que podría atacar y él simplemente tendría que
+
+142
+00:05:21,930 --> 00:05:24,170
+hacer lo siguiente decir, te ataco con este
+
+143
+00:05:24,170 --> 00:05:25,310
+a este.
+
+144
+00:05:25,850 --> 00:05:27,950
+En este momento a no ser que alguien
+
+145
+00:05:27,950 --> 00:05:30,730
+pueda jugar alguna carta mágica que tenga tapada
+
+146
+00:05:30,730 --> 00:05:34,030
+que pueda desencadenar algún efecto como los dos
+
+147
+00:05:34,030 --> 00:05:37,290
+están en posición de ataque, miraríamos directamente cuánto
+
+148
+00:05:37,290 --> 00:05:39,670
+es el ataque de este monstruo contra el
+
+149
+00:05:39,670 --> 00:05:40,830
+ataque de este otro.
+
+150
+00:05:41,130 --> 00:05:43,630
+Por ejemplo aquí tenemos un ataque de 1500
+
+151
+00:05:43,630 --> 00:05:46,870
+contra un monstruo que tiene el ataque 300.
+
+152
+00:05:47,530 --> 00:05:50,450
+Por lo tanto este monstruo es más potente
+
+153
+00:05:50,450 --> 00:05:53,690
+mataría a este monstruo y además el jugador
+
+154
+00:05:53,690 --> 00:05:55,890
+que soy yo perdería una cantidad de puntos
+
+155
+00:05:55,890 --> 00:05:59,810
+igual al daño restante de la diferencia entre
+
+156
+00:05:59,810 --> 00:06:00,710
+el ataque de este y este.
+
+157
+00:06:00,810 --> 00:06:02,910
+Es decir que si tengo 1500 de ataque
+
+158
+00:06:02,910 --> 00:06:05,430
+y yo tengo 300 de ataque 1500 menos
+
+159
+00:06:05,430 --> 00:06:08,190
+300 1200 y por lo tanto a mi
+
+160
+00:06:08,190 --> 00:06:11,110
+salud total me restarían 1200 puntos.
+
+161
+00:06:11,490 --> 00:06:13,670
+Tendría que anotar en la libreta, aplicación o
+
+162
+00:06:13,670 --> 00:06:17,150
+lo que sea que estemos utilizando para acontar
+
+163
+00:06:17,150 --> 00:06:18,970
+los puntos de salud que tenemos pues si
+
+164
+00:06:18,970 --> 00:06:22,010
+tengo 8000 menos 1200 ahora mismo tendría 6800
+
+165
+00:06:22,010 --> 00:06:27,150
+Este monstruo iría al cementerio y el jugador
+
+166
+00:06:27,150 --> 00:06:30,610
+que atacó podría elegir jugar alguna carta más
+
+167
+00:06:30,610 --> 00:06:31,730
+que no sea de monstruo ya que ha
+
+168
+00:06:31,730 --> 00:06:34,530
+jugado este turno o pasar su turno en
+
+169
+00:06:34,530 --> 00:06:36,590
+este caso pasar su turno al pasar el
+
+170
+00:06:36,590 --> 00:06:38,530
+turno el jugador que empieza el turno siempre
+
+171
+00:06:38,530 --> 00:06:39,190
+roba una carta.
+
+172
+00:06:39,410 --> 00:06:41,070
+Importante que se me ha olvidado decirlo antes.
+
+173
+00:06:41,350 --> 00:06:43,230
+Siempre roba una carta en su turno podremos
+
+174
+00:06:43,230 --> 00:06:45,590
+mirar las cartas y ahora bien podré invocar
+
+175
+00:06:45,590 --> 00:06:46,870
+otro tipo de criatura.
+
+176
+00:06:47,510 --> 00:06:51,570
+Podría seguir invocando criaturas, una por turno o
+
+177
+00:06:51,570 --> 00:06:53,070
+bien jugando cartas mágicas.
+
+178
+00:06:53,630 --> 00:06:55,750
+Si yo jugara esta boca abajo, imaginemos que
+
+179
+00:06:55,750 --> 00:06:58,830
+vamos a hacer en defensa imaginemos que estamos
+
+180
+00:06:58,830 --> 00:06:59,470
+en ataque.
+
+181
+00:06:59,710 --> 00:07:01,110
+El está atacando y en vez de tener
+
+182
+00:07:01,110 --> 00:07:03,790
+yo esta criatura aquí el ataca ahora mismo.
+
+183
+00:07:03,930 --> 00:07:05,790
+Cuando este monstruo ataca a esta carta que
+
+184
+00:07:05,790 --> 00:07:07,970
+tengo boca abajo que está en defensa yo
+
+185
+00:07:07,970 --> 00:07:09,990
+le daría la vuelta y tendríamos que mirar
+
+186
+00:07:09,990 --> 00:07:12,130
+su resultado de ataque contra su resultado de
+
+187
+00:07:12,130 --> 00:07:15,590
+defensa por lo tanto 1500 contra 700 la
+
+188
+00:07:15,590 --> 00:07:18,130
+carta que está en defensa moriría pero en
+
+189
+00:07:18,130 --> 00:07:21,070
+este caso yo no me absorbería ningún tipo
+
+190
+00:07:21,070 --> 00:07:22,870
+de daño porque el monstruo que está en
+
+191
+00:07:22,870 --> 00:07:24,930
+defensa bloquea todo el daño sobrante.
+
+192
+00:07:25,130 --> 00:07:26,330
+También puede darse el caso en el que
+
+193
+00:07:26,330 --> 00:07:28,590
+tengamos varias cartas sobre la mesa.
+
+194
+00:07:28,750 --> 00:07:30,630
+Imaginemos que tenemos a este en defensa y
+
+195
+00:07:30,630 --> 00:07:34,490
+este tenemos en ataque El atacante podría elegir
+
+196
+00:07:34,490 --> 00:07:36,470
+a qué carta atacar independientemente de si está
+
+197
+00:07:36,470 --> 00:07:37,550
+en ataque o está en defensa.
+
+198
+00:07:37,730 --> 00:07:40,370
+El atacante elige con qué monstruo atacar a
+
+199
+00:07:40,370 --> 00:07:41,550
+qué otro monstruo.
+
+200
+00:07:41,670 --> 00:07:43,050
+Por ejemplo, este podría atacar a este que
+
+201
+00:07:43,050 --> 00:07:44,650
+está en defensa o bien podría atacar a
+
+202
+00:07:44,650 --> 00:07:45,070
+este otro.
+
+203
+00:07:45,550 --> 00:07:47,950
+Si el rival tuviera más monstruos en juego
+
+204
+00:07:48,950 --> 00:07:51,670
+elegiría primero atacar con uno y después podría
+
+205
+00:07:51,670 --> 00:07:54,350
+seguir atacando con los siguientes monstruos que tuviera
+
+206
+00:07:54,350 --> 00:07:57,490
+en posición de ataque Hay varias formas de
+
+207
+00:07:57,490 --> 00:08:01,810
+invocar monstruos Tenemos varios tipos Tenemos estas que
+
+208
+00:08:01,810 --> 00:08:04,710
+son de tipo amarillo, por así decirlo que
+
+209
+00:08:04,710 --> 00:08:08,550
+tienen el reborde amarillo Estos monstruos son básicos
+
+210
+00:08:08,550 --> 00:08:11,430
+no tienen habilidades ni tienen nada Luego tenemos
+
+211
+00:08:11,430 --> 00:08:15,010
+los monstruos con un color más anaranjado Estos
+
+212
+00:08:15,010 --> 00:08:17,450
+monstruos tienen habilidades descritas en su zona de
+
+213
+00:08:17,450 --> 00:08:19,770
+texto Pueden ser o al voltear que pase
+
+214
+00:08:19,770 --> 00:08:21,870
+algo o cuando se dé cierta circunstancia que
+
+215
+00:08:21,870 --> 00:08:23,630
+pase algo o cuando se invoca que pase
+
+216
+00:08:23,630 --> 00:08:26,050
+algo o cuando muere que pase algo Por
+
+217
+00:08:26,050 --> 00:08:28,230
+ejemplo, este que tenemos aquí dice cuando esta
+
+218
+00:08:28,230 --> 00:08:31,070
+carta inflinge daño de batalla a los Life
+
+219
+00:08:31,070 --> 00:08:34,070
+Points de tu adversario tu adversario descarta una
+
+220
+00:08:34,070 --> 00:08:36,270
+carta al azar de su mano Es decir,
+
+221
+00:08:36,390 --> 00:08:39,090
+que si yo ataco a mi enemigo y
+
+222
+00:08:39,090 --> 00:08:41,630
+mi enemigo se come a una cantidad fija
+
+223
+00:08:41,630 --> 00:08:44,330
+de daño en ese caso se aplicará también
+
+224
+00:08:44,330 --> 00:08:47,150
+ese efecto Hay más tipos de monstruos como
+
+225
+00:08:47,150 --> 00:08:51,330
+por ejemplo estos morados que tenemos de fusión
+
+226
+00:08:51,330 --> 00:08:54,230
+que no forman parte del mazo y para
+
+227
+00:08:54,230 --> 00:08:57,750
+ser invocados requieren de algún tipo de invocación
+
+228
+00:08:57,750 --> 00:09:01,130
+especial Estos por ejemplo requieren ser invocados con
+
+229
+00:09:01,130 --> 00:09:04,070
+la polimerización y aquí en su propia carta
+
+230
+00:09:04,070 --> 00:09:06,390
+dicen necesito el mago del tiempo y el
+
+231
+00:09:06,390 --> 00:09:08,990
+bebé dragón y este otro dice que necesita
+
+232
+00:09:08,990 --> 00:09:12,110
+manipulador de la llama y Masaki el espadachín
+
+233
+00:09:12,110 --> 00:09:16,770
+legendario Estas invocaciones se considerarían especiales y podríamos
+
+234
+00:09:16,770 --> 00:09:22,310
+invocar estos monstruos incluso si hubiéramos invocado ya
+
+235
+00:09:22,310 --> 00:09:24,610
+uno en juego Para poder hacerlo tendríamos que
+
+236
+00:09:24,610 --> 00:09:27,250
+tener por ejemplo estas cartas polimerización, mago del
+
+237
+00:09:27,250 --> 00:09:29,390
+tiempo y vamos a buscar por aquí al
+
+238
+00:09:29,390 --> 00:09:31,130
+bebé dragón que habíamos dicho antes que nos
+
+239
+00:09:31,130 --> 00:09:35,410
+hacía falta para invocar a esta tendríamos que
+
+240
+00:09:35,410 --> 00:09:38,690
+tener por ejemplo para invocar al dragón millonario
+
+241
+00:09:38,690 --> 00:09:43,770
+cualquier cantidad perdón que lo tiro todo estas
+
+242
+00:09:43,770 --> 00:09:47,450
+cartas en cualquier sitio o bien jugadas aquí
+
+243
+00:09:48,170 --> 00:09:51,090
+o bien en la mano yo a la
+
+244
+00:09:51,090 --> 00:09:54,190
+hora de jugar una polimerización jugaría la polimerización
+
+245
+00:09:54,190 --> 00:09:56,510
+podría descartar estas dos cartas de la mano
+
+246
+00:09:56,510 --> 00:10:00,910
+e invocar después al dragón milenario si lo
+
+247
+00:10:00,910 --> 00:10:03,270
+tuviera de esta forma por ejemplo el bebé
+
+248
+00:10:03,270 --> 00:10:05,970
+dragón en juego y el mago del tiempo
+
+249
+00:10:05,970 --> 00:10:07,990
+en la mano también podría jugar la polimerización
+
+250
+00:10:09,450 --> 00:10:11,490
+cogiendo el bebé dragón y el mago del
+
+251
+00:10:11,490 --> 00:10:15,890
+tiempo eliminarlos y sacar el dragón milenario importante
+
+252
+00:10:15,890 --> 00:10:18,170
+que las cartas especiales que están en esta
+
+253
+00:10:18,170 --> 00:10:21,090
+zona cuando van al cementerio no se colocan
+
+254
+00:10:21,090 --> 00:10:23,010
+en el cementerio sino que se colocan en
+
+255
+00:10:23,010 --> 00:10:25,070
+esta zona de aquí por lo tanto las
+
+256
+00:10:25,070 --> 00:10:27,410
+cartas que hagan referencia a algo del cementerio
+
+257
+00:10:28,010 --> 00:10:31,430
+nunca podrán acceder a estas cartas de tipo
+
+258
+00:10:31,430 --> 00:10:34,990
+fusión después tenemos otro tipo de monstruos que
+
+259
+00:10:34,990 --> 00:10:36,630
+quizás no lo tiene esta baraja pero si
+
+260
+00:10:36,630 --> 00:11:11,930
+lo tiene la otra baraja tenemos la
+
+261
+00:11:11,930 --> 00:11:13,210
+carta del renunciado será una carta de ritual
+
+262
+00:11:13,210 --> 00:11:15,310
+para invocar concretamente a esta carta y esa
+
+263
+00:11:15,310 --> 00:11:17,390
+carta de ritual nos dirá que requisitos debemos
+
+264
+00:11:17,390 --> 00:11:20,370
+cumplir para poder invocar esta carta, en este
+
+265
+00:11:20,370 --> 00:11:24,190
+caso la carta del renunciado con juego más
+
+266
+00:11:24,190 --> 00:11:27,970
+avanzado si adquiriéramos otros mazos que están más
+
+267
+00:11:27,970 --> 00:11:30,130
+evolucionados que son con más cartas y más
+
+268
+00:11:30,130 --> 00:11:32,850
+reglas tendríamos otros tipos de invocaciones que ahora
+
+269
+00:11:32,850 --> 00:11:34,510
+mismo no vamos a tratar porque esto es
+
+270
+00:11:34,510 --> 00:11:35,850
+lo más básico de todo.
+
+271
+00:11:36,250 --> 00:11:39,710
+Luego como invocaciones normales si tuviéramos algún monstruo
+
+272
+00:11:39,710 --> 00:11:42,190
+que tenga de fuerza más de 4, de
+
+273
+00:11:42,190 --> 00:11:44,670
+nivel más de 4 a ver si tienen
+
+274
+00:11:44,670 --> 00:11:48,790
+estos mazos algunos creo que no este por
+
+275
+00:11:48,790 --> 00:11:51,090
+ejemplo cuando tenemos un monstruo con más de
+
+276
+00:11:51,090 --> 00:11:53,290
+nivel 4 es decir 5, 6, 7, 8
+
+277
+00:11:53,290 --> 00:11:56,110
+o superior tendremos que hacer sacrificios de monstruos
+
+278
+00:11:56,110 --> 00:11:58,910
+normales de nuestro campo si el nivel del
+
+279
+00:11:58,910 --> 00:12:01,730
+monstruo es 4 o sea 5 o 6
+
+280
+00:12:01,730 --> 00:12:04,190
+tendremos que sacrificar un monstruo de nuestra zona
+
+281
+00:12:04,190 --> 00:12:06,410
+de juego y si es 7 o superior
+
+282
+00:12:06,410 --> 00:12:09,790
+tendremos que sacrificar 2, es decir que para
+
+283
+00:12:09,790 --> 00:12:11,650
+invocar a este dragón negro de ojos rojos
+
+284
+00:12:11,650 --> 00:12:13,830
+1, 2, 3, 4, 5, 6, 7 de
+
+285
+00:12:13,830 --> 00:12:17,450
+nivel 7 tendremos que destruir al menos 2
+
+286
+00:12:17,450 --> 00:12:21,150
+de nuestros monstruos, mandarlos al cementerio y después
+
+287
+00:12:21,150 --> 00:12:25,230
+invocar al dragón negro de ojos rojos.
+
+288
+00:12:25,390 --> 00:12:27,050
+Otra cosa importante que se debe saber a
+
+289
+00:12:27,050 --> 00:12:28,350
+la hora de jugar a Yu-Gi-Oh!
+
+290
+00:12:28,570 --> 00:12:30,250
+es que los huecos que tenemos en el
+
+291
+00:12:30,250 --> 00:12:33,690
+campo son limitados, solamente podremos tener 5 cartas
+
+292
+00:12:33,690 --> 00:12:36,330
+de monstruos al mismo tiempo y solamente podremos
+
+293
+00:12:36,330 --> 00:12:41,090
+tener 5 cartas de carta barra mágicas invocadas
+
+294
+00:12:41,090 --> 00:12:43,390
+al mismo tiempo y la carta que jugamos
+
+295
+00:12:43,390 --> 00:12:45,850
+en el mismo turno, aunque solamente la juguemos
+
+296
+00:12:45,850 --> 00:12:47,970
+de forma boca arriba para que se haga
+
+297
+00:12:47,970 --> 00:12:50,730
+el efecto, debemos de tener hueco en la
+
+298
+00:12:50,730 --> 00:12:52,490
+zona de juego para poder activarla.
+
+299
+00:12:52,990 --> 00:12:55,630
+Hay alguna carta especial que se llama carta
+
+300
+00:12:55,630 --> 00:12:58,850
+de campo y viene a este lugar y
+
+301
+00:12:58,850 --> 00:13:00,530
+para saber si es una carta de campo
+
+302
+00:13:00,530 --> 00:13:02,670
+nos tendremos que fijar en las cartas mágicas,
+
+303
+00:13:03,070 --> 00:13:05,750
+en los símbolos que aparecen en esta esquinita
+
+304
+00:13:05,750 --> 00:13:08,710
+en este caso tenemos una carta mágica con
+
+305
+00:13:08,710 --> 00:13:11,290
+el efecto de juego rápido, que quiere decir
+
+306
+00:13:11,290 --> 00:13:13,410
+que se puede jugar en cualquier turno desde
+
+307
+00:13:13,410 --> 00:13:15,290
+tu mano pero hay otras que tienen aquí
+
+308
+00:13:15,290 --> 00:13:17,850
+otros símbolos que representan que tienen un efecto
+
+309
+00:13:17,850 --> 00:13:19,190
+permanente o que son de campo.
+
+310
+00:13:19,490 --> 00:13:21,390
+Cuando una carta tiene el símbolo de campo
+
+311
+00:13:21,390 --> 00:13:23,950
+se coloca en esta zona especial de aquí.
+
+312
+00:13:24,550 --> 00:13:25,770
+Y así es como se juega a Yu
+
+313
+00:13:25,770 --> 00:13:25,970
+-Gi-Oh!
+
+314
+00:13:26,050 --> 00:13:28,950
+Es bastante sencillo, bastante intuitivo, un poco hongorroso
+
+315
+00:13:28,950 --> 00:13:31,390
+el tema de tener que estar calculando las
+
+316
+00:13:31,390 --> 00:13:33,950
+cuentas de cuánto daño me haces, cuánto daño
+
+317
+00:13:33,950 --> 00:13:35,630
+te hago ir apuntando en una libreta, no
+
+318
+00:13:35,630 --> 00:13:37,950
+es tan intuitivo como otros LCGs que igual
+
+319
+00:13:38,570 --> 00:13:40,930
+son 20 vidas y es más fácil llevar
+
+320
+00:13:40,930 --> 00:13:44,030
+la cuenta pero se hace divertido se hace
+
+321
+00:13:44,030 --> 00:13:48,630
+ameno y sobre todo estas barajas iniciales, si
+
+322
+00:13:48,630 --> 00:13:50,550
+lo que quieres es tener una representación de
+
+323
+00:13:50,550 --> 00:13:52,430
+la serie de lo que ves en la
+
+324
+00:13:52,430 --> 00:13:54,450
+serie, con estas barajas lo puedes hacer.
+
+325
+00:13:54,590 --> 00:13:55,850
+Es más, cuando estás jugando es que dices
+
+326
+00:13:55,850 --> 00:13:58,930
+invoco al dragón de ojos rojos y eso,
+
+327
+00:13:59,070 --> 00:14:00,430
+y entonces emociona mucho.
+
+328
+00:14:01,130 --> 00:14:02,250
+Todo lo que tenéis que hacer para empezar
+
+329
+00:14:02,250 --> 00:14:04,050
+a jugar, para tener las primeras nociones, lo
+
+330
+00:14:04,050 --> 00:14:05,670
+tenéis aquí y si habéis empezado a jugar
+
+331
+00:14:05,670 --> 00:14:07,890
+pues obviamente ya tendréis el manual para las
+
+332
+00:14:07,890 --> 00:14:09,510
+dudas que tengáis para poder resolverlas allí.
+
+333
+00:14:09,930 --> 00:14:11,350
+Hasta aquí el vídeo de hoy, espero que
+
+334
+00:14:11,350 --> 00:14:13,190
+os haya gustado, suscribiros si no lo estáis,
+
+335
+00:14:13,290 --> 00:14:14,390
+darle me gusta si es que os ha
+
+336
+00:14:14,390 --> 00:14:17,130
+gustado de verdad seguidme en Instagram, que es
+
+337
+00:14:17,130 --> 00:14:20,070
+la única red que utilizo bien todos los
+
+338
+00:14:20,070 --> 00:14:22,490
+días y nos vemos en el siguiente vídeo.
+
+339
+00:14:29,530 --> 00:14:35,870
+Que yo te lo cuento Pon un juego
+
+340
+00:14:36,150 --> 00:14:39,770
+en tu mesa y suscríbete luego

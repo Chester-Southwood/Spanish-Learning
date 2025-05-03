@@ -1,0 +1,927 @@
+1
+00:00:13,380 --> 00:00:15,520
+¿Qué harás mientras estoy en el campamento de
+
+2
+00:00:15,520 --> 00:00:16,080
+videojuegos?
+
+3
+00:00:16,180 --> 00:00:17,200
+¿Morir de aburrimiento?
+
+4
+00:00:18,220 --> 00:00:18,740
+¡Sí!
+
+5
+00:00:18,740 --> 00:00:21,100
+Gracias por abandonarme cuando te necesito.
+
+6
+00:00:21,460 --> 00:00:23,600
+Perdón, Micaela, pero debo ir a Oshkosh.
+
+7
+00:00:23,760 --> 00:00:26,280
+Soy la heroína de la programación que Wisconsin
+
+8
+00:00:26,280 --> 00:00:27,140
+necesita.
+
+9
+00:00:27,820 --> 00:00:29,800
+Dudo que quieran que su heroína de la
+
+10
+00:00:29,800 --> 00:00:32,160
+programación apeste todo el estado con su aliento
+
+11
+00:00:32,160 --> 00:00:32,740
+a cebolla.
+
+12
+00:00:32,820 --> 00:00:33,260
+¡Hey!
+
+13
+00:00:33,520 --> 00:00:35,500
+No es mi culpa tener un paladar tan
+
+14
+00:00:35,500 --> 00:00:36,300
+sofisticado.
+
+15
+00:00:36,460 --> 00:00:37,920
+Tienes un paladar asqueroso.
+
+16
+00:00:37,920 --> 00:00:39,480
+Voy a trabajar un poco más en mi
+
+17
+00:00:39,480 --> 00:00:40,380
+juego antes de irme.
+
+18
+00:00:40,560 --> 00:00:42,640
+Quiero pasarles por arriba a los otros nerds.
+
+19
+00:00:42,740 --> 00:00:44,220
+Tu juego me pareció divertido.
+
+20
+00:00:44,400 --> 00:00:46,500
+Y sabes lo que pienso de los videojuegos.
+
+21
+00:00:46,680 --> 00:00:47,460
+Los odias.
+
+22
+00:00:47,760 --> 00:00:49,960
+Los odio, pero el tuyo me gusta.
+
+23
+00:00:55,530 --> 00:00:58,430
+Oye, cuando tu papá viene en los días
+
+24
+00:00:58,430 --> 00:01:00,910
+de visita, ¿entra a tu casa y habla
+
+25
+00:01:00,910 --> 00:01:01,770
+con tu mamá?
+
+26
+00:01:03,910 --> 00:01:05,070
+Sí, a veces.
+
+27
+00:01:05,650 --> 00:01:07,470
+Imagino que debe ser raro ver a tus
+
+28
+00:01:07,470 --> 00:01:09,430
+papás hablando entre ellos.
+
+29
+00:01:09,810 --> 00:01:10,930
+¿Por qué sería raro?
+
+30
+00:01:10,930 --> 00:01:12,790
+Bueno, tú ya sabes.
+
+31
+00:01:13,070 --> 00:01:14,450
+Porque ya no están casados.
+
+32
+00:01:14,890 --> 00:01:15,410
+Y...
+
+33
+00:01:15,410 --> 00:01:16,630
+ahora todo es...
+
+34
+00:01:16,630 --> 00:01:17,070
+distinto.
+
+35
+00:01:17,290 --> 00:01:17,710
+¿Y qué?
+
+36
+00:01:18,130 --> 00:01:20,090
+Hay muchos padres que se divorcian.
+
+37
+00:01:20,330 --> 00:01:22,170
+Oye, ya tengo que ir a empacar.
+
+38
+00:01:22,350 --> 00:01:23,170
+Nos vemos el lunes.
+
+39
+00:01:23,450 --> 00:01:24,550
+Oh, está bien.
+
+40
+00:01:24,730 --> 00:01:25,170
+¡Adiós!
+
+41
+00:01:25,510 --> 00:01:26,830
+Escríbeme cuando llegues.
+
+42
+00:01:27,030 --> 00:01:27,750
+Te irá genial.
+
+43
+00:01:28,770 --> 00:01:29,090
+¿Tulip?
+
+44
+00:01:31,110 --> 00:01:32,070
+Tulip es papá.
+
+45
+00:01:32,210 --> 00:01:33,250
+Necesitamos hablarte.
+
+46
+00:01:33,910 --> 00:01:35,590
+No, se fue a su cuarto.
+
+47
+00:01:36,230 --> 00:01:36,870
+No sé, Andy.
+
+48
+00:01:36,910 --> 00:01:37,670
+¿Tú qué quieres hacer?
+
+49
+00:01:39,370 --> 00:01:40,850
+Oshkosh, campamento de videojuegos.
+
+50
+00:01:47,330 --> 00:01:49,590
+Bueno, juego, ya deberías funcionar.
+
+51
+00:01:49,650 --> 00:01:51,790
+Pero mira, cuando pongo a jugar, te quedas
+
+52
+00:01:51,790 --> 00:01:52,490
+quieto y mueres.
+
+53
+00:01:56,170 --> 00:01:56,990
+¿Lo ves?
+
+54
+00:01:57,110 --> 00:01:57,950
+Eso no está bien.
+
+55
+00:02:03,930 --> 00:02:05,170
+¡No puedo creerlo!
+
+56
+00:02:05,250 --> 00:02:06,410
+¡Por fin te estás moviendo!
+
+57
+00:02:06,670 --> 00:02:07,710
+No cambies nunca.
+
+58
+00:02:08,130 --> 00:02:10,170
+Gracias, hombrecito de Programar School.
+
+59
+00:02:10,450 --> 00:02:11,810
+Gracias a ti, Tulip.
+
+60
+00:02:11,810 --> 00:02:13,810
+Porque con la venta de mi libro, por
+
+61
+00:02:13,810 --> 00:02:16,030
+fin puedo pagar para que me quiten este
+
+62
+00:02:16,030 --> 00:02:17,170
+hurón de la cara.
+
+63
+00:02:17,510 --> 00:02:17,990
+¿Tulip?
+
+64
+00:02:18,430 --> 00:02:19,730
+¿Puedes bajar, por favor?
+
+65
+00:02:22,630 --> 00:02:23,110
+¿Qué?
+
+66
+00:02:25,150 --> 00:02:27,190
+Tulip, lo siento, pero tu papá no puede
+
+67
+00:02:27,190 --> 00:02:28,330
+llevarte al campamento.
+
+68
+00:02:28,650 --> 00:02:28,830
+¿Qué?
+
+69
+00:02:29,130 --> 00:02:30,070
+¿Cómo que no puede?
+
+70
+00:02:30,250 --> 00:02:32,130
+Dijeron que si mejoraba en la escuela, me
+
+71
+00:02:32,130 --> 00:02:32,850
+dejarían ir.
+
+72
+00:02:33,070 --> 00:02:35,390
+Tú y papá hasta firmaron un contrato.
+
+73
+00:02:35,670 --> 00:02:37,850
+Ya lo sé, amor, pero tu papá confundió
+
+74
+00:02:37,850 --> 00:02:39,910
+las fechas y planificó un viaje de trabajo.
+
+75
+00:02:39,910 --> 00:02:42,030
+¡Bueno, entonces llévame tú, mamá!
+
+76
+00:02:42,030 --> 00:02:43,770
+Hoy tengo que trabajar toda la noche en
+
+77
+00:02:43,770 --> 00:02:45,390
+el hospital y el domingo también.
+
+78
+00:02:45,990 --> 00:02:47,730
+Ay, supuse que no ibas a estar en
+
+79
+00:02:47,730 --> 00:02:47,990
+casa.
+
+80
+00:02:48,330 --> 00:02:50,690
+¡Están demasiado ocupados para ser mis padres!
+
+81
+00:02:50,870 --> 00:02:51,270
+¡Oye!
+
+82
+00:02:51,390 --> 00:02:53,170
+¡Son ustedes los que no dejan de arruinar
+
+83
+00:02:53,170 --> 00:02:54,470
+las cosas con su divorcio!
+
+84
+00:02:54,630 --> 00:02:55,130
+¡No yo!
+
+85
+00:02:55,370 --> 00:02:56,370
+¡Esto no es justo!
+
+86
+00:02:56,530 --> 00:02:58,270
+Ya sé que no es justo, pero fue
+
+87
+00:02:58,270 --> 00:02:59,230
+un accidente.
+
+88
+00:02:59,630 --> 00:03:01,450
+Estamos tratando de manejar la situación.
+
+89
+00:03:01,710 --> 00:03:03,290
+Sé que aún no somos buenos en esto,
+
+90
+00:03:03,450 --> 00:03:03,670
+pero...
+
+91
+00:03:03,670 --> 00:03:04,270
+¿Buenos en qué?
+
+92
+00:03:04,450 --> 00:03:05,830
+¿En ser padres divorciados?
+
+93
+00:03:05,950 --> 00:03:07,590
+Me refiero a organizarnos, Tulip.
+
+94
+00:03:07,590 --> 00:03:09,110
+¿Qué tanto hay que organizar?
+
+95
+00:03:09,170 --> 00:03:10,490
+¡Son dos adultos y una niña!
+
+96
+00:03:10,590 --> 00:03:11,670
+¡No es tan difícil!
+
+97
+00:03:13,050 --> 00:03:13,570
+Bien.
+
+98
+00:03:14,250 --> 00:03:15,430
+Como quieras, no iré.
+
+99
+00:03:15,550 --> 00:03:16,270
+Tulip, espera.
+
+100
+00:03:16,610 --> 00:03:17,750
+Vamos a conversarlo.
+
+101
+00:03:17,850 --> 00:03:19,450
+No, voy a seguir con mi juego.
+
+102
+00:03:43,240 --> 00:03:44,900
+Perdón, amiguita, te lo compensaré.
+
+103
+00:03:45,020 --> 00:03:45,720
+Llámame, papá.
+
+104
+00:04:02,990 --> 00:04:07,130
+El Tren Infinito Hoy veremos el vagón cuadriculado.
+
+105
+00:04:23,570 --> 00:04:25,730
+Campamento Oshkosh, a un paso.
+
+106
+00:04:26,170 --> 00:04:28,370
+500 kilómetros no son un paso.
+
+107
+00:04:38,260 --> 00:04:39,480
+Oshkosh ¡Oh!
+
+108
+00:04:39,620 --> 00:04:40,280
+¡Qué suerte!
+
+109
+00:04:50,780 --> 00:04:54,200
+¿Pero qué...? ¡Aluciné que había una estación de
+
+110
+00:04:54,200 --> 00:04:54,400
+tren!
+
+111
+00:04:55,020 --> 00:04:56,840
+Eso sí que es...
+
+112
+00:04:56,840 --> 00:04:57,480
+aburrido.
+
+113
+00:04:59,140 --> 00:05:00,620
+Tulip, ¿por qué no fuiste al campamento?
+
+114
+00:05:01,940 --> 00:05:04,420
+Oh, perdone, no pude ir porque decidí quedarme
+
+115
+00:05:04,420 --> 00:05:06,280
+dormida en un campo y soñar con medios
+
+116
+00:05:06,280 --> 00:05:07,420
+de transporte de la prehistoria.
+
+117
+00:05:14,040 --> 00:05:15,040
+¿Eres mi mamá?
+
+118
+00:05:15,140 --> 00:05:15,620
+¿Qué cosa?
+
+119
+00:05:15,820 --> 00:05:15,940
+¿Qué?
+
+120
+00:05:16,120 --> 00:05:16,640
+¿Si soy qué?
+
+121
+00:05:16,900 --> 00:05:17,920
+¿Eres mi mamá?
+
+122
+00:05:18,180 --> 00:05:18,540
+¡No!
+
+123
+00:05:19,180 --> 00:05:21,360
+¿Viniste a traerme el dulce alivio de la
+
+124
+00:05:21,360 --> 00:05:21,660
+muerte?
+
+125
+00:05:21,860 --> 00:05:22,720
+Eso tampoco.
+
+126
+00:05:22,960 --> 00:05:23,660
+¿Eres un juguete?
+
+127
+00:05:23,760 --> 00:05:25,480
+Tu reconocimiento de voz es increíble.
+
+128
+00:05:25,660 --> 00:05:27,540
+Estoy buscando a mi madre, aunque no sé
+
+129
+00:05:27,540 --> 00:05:28,100
+cómo luce.
+
+130
+00:05:28,100 --> 00:05:31,840
+Podría ser grande, o pequeña, como una rosquilla
+
+131
+00:05:31,840 --> 00:05:32,440
+materna.
+
+132
+00:05:32,660 --> 00:05:34,400
+¿Tú también buscas a tu mamá rosquilla?
+
+133
+00:05:34,660 --> 00:05:36,120
+No, rotundamente no.
+
+134
+00:05:36,600 --> 00:05:37,800
+Tampoco a mi papá.
+
+135
+00:05:38,160 --> 00:05:39,260
+¡Ah, juguete raro!
+
+136
+00:05:39,340 --> 00:05:40,800
+¿Entonces qué estás buscando?
+
+137
+00:05:41,020 --> 00:05:42,660
+No busco nada, ¿está bien?
+
+138
+00:05:42,760 --> 00:05:44,340
+Solo estoy yendo a Oshkosh.
+
+139
+00:05:44,560 --> 00:05:45,420
+¿Ahí es donde vives?
+
+140
+00:05:45,720 --> 00:05:47,720
+Es donde está el campamento de videojuegos.
+
+141
+00:05:48,020 --> 00:05:49,180
+¿Estás yendo sola?
+
+142
+00:05:49,340 --> 00:05:49,580
+Sí.
+
+143
+00:05:49,860 --> 00:05:50,780
+¿Sin tus padres?
+
+144
+00:05:51,060 --> 00:05:52,320
+¡No necesito a mis padres!
+
+145
+00:05:52,600 --> 00:05:54,120
+¡Vuelve a ser un muñeco de nieve o
+
+146
+00:05:54,120 --> 00:05:55,020
+lo que sea que eres!
+
+147
+00:05:55,360 --> 00:05:57,480
+¡Santo cielo que soy!
+
+148
+00:05:57,480 --> 00:05:57,820
+¡Ah!
+
+149
+00:06:01,620 --> 00:06:03,520
+¿Para qué hacer algo tan grande que se
+
+150
+00:06:03,520 --> 00:06:03,920
+derrite?
+
+151
+00:06:04,160 --> 00:06:05,900
+¡Es imposible abrir esa puerta!
+
+152
+00:06:06,080 --> 00:06:08,480
+La única salida es la hipotermia.
+
+153
+00:06:15,000 --> 00:06:15,440
+¿Esto...
+
+154
+00:06:15,440 --> 00:06:16,380
+es el tren?
+
+155
+00:06:17,480 --> 00:06:18,980
+¿Estamos en un tren gigante?
+
+156
+00:06:19,100 --> 00:06:20,460
+¿En un tren raro y gigante?
+
+157
+00:06:20,580 --> 00:06:22,040
+¡Llegas a la perilla de la puerta!
+
+158
+00:06:22,260 --> 00:06:23,320
+¿Cómo funciona esta puerta?
+
+159
+00:06:23,520 --> 00:06:24,680
+¿Eres un robot de verdad?
+
+160
+00:06:24,900 --> 00:06:25,860
+¿Hay más gente a bordo?
+
+161
+00:06:25,860 --> 00:06:27,520
+¿Así son los trenes?
+
+162
+00:06:27,620 --> 00:06:28,060
+¡Sí!
+
+163
+00:06:28,340 --> 00:06:29,300
+¿Sí a cuál pregunta?
+
+164
+00:06:29,600 --> 00:06:30,100
+No lo sé.
+
+165
+00:06:30,260 --> 00:06:32,600
+Espera, ¿qué hay en el siguiente vagón?
+
+166
+00:06:33,120 --> 00:06:34,920
+Probablemente algo decepcionante.
+
+167
+00:06:39,720 --> 00:06:40,280
+Bueno...
+
+168
+00:06:40,280 --> 00:06:40,840
+Te lo dije.
+
+169
+00:06:41,120 --> 00:06:42,580
+¿Para qué será esta habitación?
+
+170
+00:06:44,720 --> 00:06:46,260
+¡Vuelvo a estar impresionada!
+
+171
+00:07:00,600 --> 00:07:02,280
+¿Estás haciendo un ataúd?
+
+172
+00:07:02,340 --> 00:07:04,200
+Es un personaje de mi videojuego.
+
+173
+00:07:04,200 --> 00:07:05,520
+Se llama...
+
+174
+00:07:05,520 --> 00:07:07,280
+¡Buenos acabando con los malos!
+
+175
+00:07:07,640 --> 00:07:09,040
+Es el mejor juego que hice.
+
+176
+00:07:09,160 --> 00:07:10,320
+¿Cuántos juegos has hecho?
+
+177
+00:07:10,540 --> 00:07:10,820
+Uno.
+
+178
+00:07:11,560 --> 00:07:12,520
+¿Es broma?
+
+179
+00:07:12,920 --> 00:07:13,400
+Esa...
+
+180
+00:07:13,400 --> 00:07:14,840
+sería una broma un poco rara.
+
+181
+00:07:15,020 --> 00:07:15,860
+¡Así me llamo yo!
+
+182
+00:07:16,000 --> 00:07:16,520
+¡Soy uno!
+
+183
+00:07:16,660 --> 00:07:17,020
+Uno.
+
+184
+00:07:17,400 --> 00:07:18,880
+Y ese es un nombre un poco raro.
+
+185
+00:07:19,180 --> 00:07:20,640
+No como el mío, que es Tulip, y
+
+186
+00:07:20,640 --> 00:07:21,640
+es totalmente normal.
+
+187
+00:07:23,140 --> 00:07:24,700
+Oh, tengo que llegar ahí arriba.
+
+188
+00:07:30,040 --> 00:07:31,220
+¿Y esto qué es?
+
+189
+00:07:37,660 --> 00:07:38,440
+Uno, uno.
+
+190
+00:07:38,980 --> 00:07:40,780
+¿Tú sabes cómo luce Wisconsin?
+
+191
+00:07:41,180 --> 00:07:42,880
+A ver, espera, déjame pensar.
+
+192
+00:07:43,300 --> 00:07:45,160
+Yo diría que lucen...
+
+193
+00:07:45,160 --> 00:07:45,540
+¿Así?
+
+194
+00:07:46,080 --> 00:07:48,240
+No, esto no es Wisconsin.
+
+195
+00:07:54,240 --> 00:07:55,520
+¿De acuerdo?
+
+196
+00:08:10,570 --> 00:08:12,890
+Estás entrando a una zona oscura.
+
+197
+00:08:12,890 --> 00:08:13,590
+¡No estoy!
+
+198
+00:08:14,530 --> 00:08:16,230
+¡Ya no quiero estar en este tren!
+
+199
+00:08:16,490 --> 00:08:16,930
+¡Espera!
+
+200
+00:08:17,010 --> 00:08:17,710
+¿Eres mi mamá?
+
+201
+00:08:17,890 --> 00:08:19,470
+No recuerdo que me habías contestado.
+
+202
+00:08:19,470 --> 00:08:19,690
+¡No!
+
+203
+00:08:54,280 --> 00:08:56,540
+¿Qué es eso que canta?
+
+204
+00:08:56,540 --> 00:08:58,600
+Es una canción de persecución.
+
+205
+00:08:58,820 --> 00:08:59,480
+¡La inventé yo!
+
+206
+00:09:26,290 --> 00:09:37,540
+¡Ayuda a
+
+207
+00:09:37,540 --> 00:09:37,760
+Tulip!
+
+208
+00:09:50,280 --> 00:09:51,480
+De acuerdo, bueno.
+
+209
+00:09:51,780 --> 00:09:56,530
+¡Acaba con...! Te toca a ti, malo.
+
+210
+00:09:58,230 --> 00:09:58,990
+¿1-1?
+
+211
+00:09:59,170 --> 00:09:59,950
+¿Cómo va la pared?
+
+212
+00:10:00,250 --> 00:10:01,910
+Es como una casa, más que una pared.
+
+213
+00:10:02,390 --> 00:10:03,590
+¿Quieres que la vuelva a empezar?
+
+214
+00:10:03,770 --> 00:10:04,450
+¡Volveré a empezar!
+
+215
+00:10:04,790 --> 00:10:05,070
+¡No!
+
+216
+00:10:05,290 --> 00:10:06,230
+¡No vuelvas a empezar!
+
+217
+00:10:11,930 --> 00:10:13,610
+Me olvidé de hacer el techo.
+
+218
+00:10:13,850 --> 00:10:15,610
+¿Es extraño que una casa no tenga techo?
+
+219
+00:10:18,330 --> 00:10:20,330
+Este lugar tiene cosas que están bien y
+
+220
+00:10:20,330 --> 00:10:21,730
+cosas que podrían estar mejor.
+
+221
+00:10:23,530 --> 00:10:25,550
+Tiene que haber una forma de bajar del
+
+222
+00:10:25,550 --> 00:10:26,410
+tren sin morir.
+
+223
+00:10:27,010 --> 00:10:29,290
+A ver, todo tiene reglas.
+
+224
+00:10:29,810 --> 00:10:32,110
+Hasta las cosas más locas tienen una lógica.
+
+225
+00:10:33,730 --> 00:10:35,070
+Es un tren, ¿verdad?
+
+226
+00:10:35,230 --> 00:10:36,910
+Y los trenes tienen maquinistas.
+
+227
+00:10:37,330 --> 00:10:38,870
+¿1-1, hay un maquinista?
+
+228
+00:10:39,690 --> 00:10:41,770
+Por favor, dime que sabes la respuesta.
+
+229
+00:10:42,650 --> 00:10:43,130
+¿Maquinista?
+
+230
+00:10:44,350 --> 00:10:45,930
+Creo que hay uno de esos.
+
+231
+00:10:46,150 --> 00:10:47,810
+Pero es probable que esté en la locomotora.
+
+232
+00:10:54,010 --> 00:11:01,100
+Me voy a bajar de este tren.

@@ -1,0 +1,967 @@
+1
+00:00:02,190 --> 00:00:05,610
+El Tren Infinito Hoy veremos el vagón del
+
+2
+00:00:05,610 --> 00:00:07,850
+cañón de las serpientes doradas con alas.
+
+3
+00:00:12,550 --> 00:00:13,090
+¿Qué?
+
+4
+00:00:13,510 --> 00:00:14,890
+Los vagones, genios.
+
+5
+00:00:15,730 --> 00:00:17,570
+Busqué aberraciones en este vagón y nada.
+
+6
+00:00:17,990 --> 00:00:19,750
+De pronto llegan ustedes y una alerta me
+
+7
+00:00:19,750 --> 00:00:21,830
+dice que hay líneas de código incompatibles con
+
+8
+00:00:21,830 --> 00:00:22,790
+la realidad del vagón.
+
+9
+00:00:22,930 --> 00:00:25,330
+Apenas escapamos de los vagones que se eyectan.
+
+10
+00:00:25,630 --> 00:00:27,110
+Nosotros somos las víctimas.
+
+11
+00:00:27,110 --> 00:00:28,290
+Aquí no hay víctimas.
+
+12
+00:00:28,770 --> 00:00:29,850
+Es un error del tren.
+
+13
+00:00:30,530 --> 00:00:32,430
+Uno me envió para que lo solucionara.
+
+14
+00:00:32,810 --> 00:00:33,110
+¿Uno?
+
+15
+00:00:33,390 --> 00:00:34,810
+¿Hablas de 1-1?
+
+16
+00:00:35,130 --> 00:00:36,830
+¿1-1-1?
+
+17
+00:00:36,970 --> 00:00:38,290
+¡El maquinista falso!
+
+18
+00:00:38,610 --> 00:00:40,890
+¡Él solo ha intentado matarnos desde que le
+
+19
+00:00:40,890 --> 00:00:42,330
+quitó el tren al verdadero maquinista!
+
+20
+00:00:42,890 --> 00:00:43,730
+¿El verdadero?
+
+21
+00:00:47,570 --> 00:00:50,090
+Uno no tiene idea de que ustedes existen.
+
+22
+00:00:50,710 --> 00:00:52,270
+No más que cualquier otro pasajero.
+
+23
+00:00:52,650 --> 00:00:54,670
+En el sentido estricto de la palabra, para
+
+24
+00:00:54,670 --> 00:00:55,750
+él solo somos números.
+
+25
+00:00:57,170 --> 00:00:57,770
+¡Esperen!
+
+26
+00:01:00,030 --> 00:01:02,350
+Todos los pasajeros son importantes.
+
+27
+00:01:03,050 --> 00:01:05,530
+Su bienestar y progreso es el objetivo del
+
+28
+00:01:05,530 --> 00:01:05,810
+tren.
+
+29
+00:01:06,330 --> 00:01:07,830
+A bordo el que quiera crecer.
+
+30
+00:01:07,970 --> 00:01:08,410
+¡Chuchu!
+
+31
+00:01:09,490 --> 00:01:10,890
+Atentamente su maquinista.
+
+32
+00:01:11,170 --> 00:01:11,410
+Uno.
+
+33
+00:01:12,850 --> 00:01:13,250
+Uno.
+
+34
+00:01:15,170 --> 00:01:16,430
+Eres muy rara.
+
+35
+00:01:16,930 --> 00:01:18,190
+¡Sí, lo soy!
+
+36
+00:01:18,490 --> 00:01:19,410
+¡Oh cielos!
+
+37
+00:01:19,630 --> 00:01:21,510
+¿Acaso no tienen ni la menor idea de
+
+38
+00:01:21,510 --> 00:01:22,190
+lo que sucede?
+
+39
+00:01:22,190 --> 00:01:23,150
+¡Oh!
+
+40
+00:01:23,950 --> 00:01:25,690
+Esto es muy tedioso.
+
+41
+00:01:26,410 --> 00:01:28,890
+Algunos de los vagones tienen el código corrupto.
+
+42
+00:01:29,110 --> 00:01:31,310
+Yo creé un pulso que escanea ese código.
+
+43
+00:01:31,630 --> 00:01:33,990
+Y funcionaba bien hasta hace tres semanas, cuando
+
+44
+00:01:33,990 --> 00:01:36,350
+los vagones comenzaron a eyectarse sin cesar.
+
+45
+00:01:36,490 --> 00:01:38,630
+Y como ustedes dicen que han sido eyectados
+
+46
+00:01:38,630 --> 00:01:40,790
+junto con ellos, ahora son la única pista
+
+47
+00:01:40,790 --> 00:01:42,870
+que tengo, así que empiecen a hablar.
+
+48
+00:01:44,210 --> 00:01:45,990
+Tú eras el grupo de números al que
+
+49
+00:01:45,990 --> 00:01:46,450
+seguíamos.
+
+50
+00:01:47,550 --> 00:01:48,590
+¿Estuvieron siguiéndome?
+
+51
+00:01:49,030 --> 00:01:50,330
+Entonces no era el Apex.
+
+52
+00:01:50,330 --> 00:01:50,990
+¿El qué?
+
+53
+00:01:51,450 --> 00:01:53,030
+Era un único número alto.
+
+54
+00:01:53,290 --> 00:01:54,770
+El más alto que hayamos visto.
+
+55
+00:01:54,950 --> 00:01:56,410
+O tal vez que haya existido.
+
+56
+00:01:56,870 --> 00:01:57,390
+Grossero.
+
+57
+00:01:57,830 --> 00:02:00,170
+Tenemos los números más altos de todo el
+
+58
+00:02:00,170 --> 00:02:00,390
+tren.
+
+59
+00:02:01,150 --> 00:02:02,070
+Excepto del tuyo.
+
+60
+00:02:03,130 --> 00:02:03,970
+¡No me importa!
+
+61
+00:02:04,330 --> 00:02:05,870
+No se trata de mi número, se trata
+
+62
+00:02:05,870 --> 00:02:06,530
+de mi causa.
+
+63
+00:02:07,030 --> 00:02:08,110
+Necesito información.
+
+64
+00:02:11,390 --> 00:02:13,850
+En los vagones eyectados había cosas que no
+
+65
+00:02:13,850 --> 00:02:15,110
+correspondían con el entorno.
+
+66
+00:02:15,110 --> 00:02:20,230
+Cabinas telefónicas, universidades, muchas tortugas, demasiadas tortugas.
+
+67
+00:02:20,410 --> 00:02:22,370
+Una cantidad de tortugas que te hace pensar,
+
+68
+00:02:22,470 --> 00:02:22,870
+¿por qué?
+
+69
+00:02:23,030 --> 00:02:24,430
+¿Por qué tantas tortugas?
+
+70
+00:02:26,630 --> 00:02:27,250
+¡Grace!
+
+71
+00:02:27,610 --> 00:02:30,070
+El primer vagón tenía tortugas.
+
+72
+00:02:30,370 --> 00:02:31,770
+Simon, ven.
+
+73
+00:02:32,510 --> 00:02:32,850
+Ahora.
+
+74
+00:02:36,170 --> 00:02:37,630
+Tenemos que huir de ella.
+
+75
+00:02:37,810 --> 00:02:38,170
+¿Por qué?
+
+76
+00:02:38,530 --> 00:02:40,590
+Debe saber más sobre los números que cualquier
+
+77
+00:02:40,590 --> 00:02:41,390
+otra persona.
+
+78
+00:02:41,810 --> 00:02:43,470
+Quizá sepa qué pasa con el tuyo.
+
+79
+00:02:43,470 --> 00:02:45,810
+Pues, por eso.
+
+80
+00:02:46,330 --> 00:02:48,050
+Puede que no solamente sepa algo.
+
+81
+00:02:48,370 --> 00:02:50,210
+Tal vez esté involucrada en todo esto.
+
+82
+00:02:50,670 --> 00:02:52,470
+Trabaja para 1-1 y...
+
+83
+00:02:54,430 --> 00:02:56,410
+Código A-17 del Apex.
+
+84
+00:02:56,650 --> 00:02:58,690
+Nunca confíes en un pasajero adulto.
+
+85
+00:03:00,570 --> 00:03:01,950
+Bueno, está bien.
+
+86
+00:03:02,350 --> 00:03:02,550
+Bien.
+
+87
+00:03:03,350 --> 00:03:04,270
+¿Nos está mirando?
+
+88
+00:03:07,170 --> 00:03:07,510
+¿Qué?
+
+89
+00:03:12,350 --> 00:03:13,610
+¿A dónde van?
+
+90
+00:03:15,030 --> 00:03:16,370
+Odio a los niños.
+
+91
+00:03:48,570 --> 00:03:51,130
+¡Este vagón va a ser eyectado!
+
+92
+00:03:52,190 --> 00:03:54,630
+Sé que todavía están en el vagón.
+
+93
+00:03:55,030 --> 00:03:56,690
+Veo sus números en la pantalla.
+
+94
+00:03:57,990 --> 00:03:59,330
+Interfaz de porquería.
+
+95
+00:04:16,510 --> 00:04:17,450
+La cueva.
+
+96
+00:04:17,990 --> 00:04:19,350
+Podemos pasar la noche ahí.
+
+97
+00:04:26,700 --> 00:04:27,920
+A ver los números.
+
+98
+00:04:28,900 --> 00:04:29,820
+Sigue igual.
+
+99
+00:04:33,760 --> 00:04:34,600
+Déjame verlo.
+
+100
+00:04:36,280 --> 00:04:36,880
+¡No!
+
+101
+00:04:37,440 --> 00:04:38,460
+¡Digo que no!
+
+102
+00:04:38,980 --> 00:04:39,440
+¿Por qué?
+
+103
+00:04:39,760 --> 00:04:41,140
+Porque aún no quiero saberlo.
+
+104
+00:04:41,380 --> 00:04:42,020
+Pero yo sí.
+
+105
+00:04:42,180 --> 00:04:43,220
+Para que cuando volvamos...
+
+106
+00:04:43,220 --> 00:04:44,040
+¡Ya basta, Simon!
+
+107
+00:04:44,440 --> 00:04:45,940
+Esto me está pasando a mí.
+
+108
+00:04:46,340 --> 00:04:47,880
+Deja de querer acaparar todo.
+
+109
+00:04:47,880 --> 00:04:49,480
+Yo digo cuándo verlo.
+
+110
+00:04:49,660 --> 00:04:51,040
+¿Y qué voy a hacer al respecto?
+
+111
+00:04:51,440 --> 00:04:53,300
+¡Así que ya no insistas con esto y
+
+112
+00:04:53,300 --> 00:04:54,200
+déjame en paz!
+
+113
+00:04:58,840 --> 00:04:59,520
+Ok.
+
+114
+00:04:59,520 --> 00:05:00,200
+Yo...
+
+115
+00:05:02,320 --> 00:05:04,180
+Estaré haciendo guardia afuera.
+
+116
+00:05:04,840 --> 00:05:05,560
+Ustedes duerman.
+
+117
+00:05:08,600 --> 00:05:09,280
+Simon.
+
+118
+00:05:10,920 --> 00:05:11,600
+¿Qué?
+
+119
+00:05:14,520 --> 00:05:15,200
+Yo...
+
+120
+00:05:16,300 --> 00:05:17,180
+Nada.
+
+121
+00:05:18,360 --> 00:05:18,820
+Buena idea.
+
+122
+00:05:20,340 --> 00:05:20,620
+Sí.
+
+123
+00:05:30,290 --> 00:05:32,170
+Hazel, ¿qué estás haciendo?
+
+124
+00:05:33,890 --> 00:05:35,370
+¡Estoy furiosa!
+
+125
+00:05:36,470 --> 00:05:37,670
+Necesitas dormir.
+
+126
+00:05:38,230 --> 00:05:38,570
+¡No!
+
+127
+00:05:39,090 --> 00:05:39,670
+¡Te agarro!
+
+128
+00:05:43,950 --> 00:05:44,950
+El caparazón.
+
+129
+00:05:46,730 --> 00:05:49,410
+¡Lo usaré para pelear contra él!
+
+130
+00:05:49,510 --> 00:05:50,030
+Hazel.
+
+131
+00:05:50,310 --> 00:05:51,790
+¡No me importa!
+
+132
+00:05:52,010 --> 00:05:53,570
+¡Con esto nos puedo proteger!
+
+133
+00:05:54,150 --> 00:05:54,990
+Hazel, ven acá.
+
+134
+00:05:54,990 --> 00:05:57,410
+¡Ahora yo seré Tuva!
+
+135
+00:05:57,670 --> 00:05:58,190
+Está bien.
+
+136
+00:05:58,350 --> 00:05:58,850
+Tranquila.
+
+137
+00:05:59,610 --> 00:06:00,830
+Quédate conmigo.
+
+138
+00:06:00,970 --> 00:06:02,070
+¡Soy Tuva!
+
+139
+00:06:48,380 --> 00:06:49,360
+¡Oye!
+
+140
+00:06:50,320 --> 00:06:52,400
+Simon, supongo.
+
+141
+00:06:52,940 --> 00:06:53,840
+Vas a ayudarme.
+
+142
+00:06:55,860 --> 00:06:56,600
+¿Ah, sí?
+
+143
+00:06:57,640 --> 00:06:59,960
+Bueno, qué amable de mi parte.
+
+144
+00:07:00,400 --> 00:07:02,120
+Quiero que me digas cuál es el problema
+
+145
+00:07:02,120 --> 00:07:02,640
+de Grace.
+
+146
+00:07:02,820 --> 00:07:03,740
+Eso es fácil.
+
+147
+00:07:03,820 --> 00:07:04,600
+Lo puedo hacer.
+
+148
+00:07:04,940 --> 00:07:06,960
+Primero, es demasiado presumida.
+
+149
+00:07:07,280 --> 00:07:09,620
+Segundo, no respeta la propiedad privada.
+
+150
+00:07:10,080 --> 00:07:10,600
+Tercero...
+
+151
+00:07:10,600 --> 00:07:11,340
+¡Basta de juegos!
+
+152
+00:07:11,860 --> 00:07:12,680
+Me abandonaste.
+
+153
+00:07:12,920 --> 00:07:14,380
+Así que dime qué le pasa a Grace.
+
+154
+00:07:14,660 --> 00:07:16,120
+No te abandoné, Simon.
+
+155
+00:07:16,820 --> 00:07:17,180
+Huí.
+
+156
+00:07:18,300 --> 00:07:18,900
+Es diferente.
+
+157
+00:07:19,380 --> 00:07:20,160
+¡Es lo mismo!
+
+158
+00:07:20,580 --> 00:07:22,040
+¡Ese gon casi me mata!
+
+159
+00:07:22,040 --> 00:07:23,820
+No me di cuenta de que no estabas
+
+160
+00:07:23,820 --> 00:07:25,500
+conmigo hasta que salí del vagón.
+
+161
+00:07:26,280 --> 00:07:27,340
+Pero nunca volviste.
+
+162
+00:07:28,880 --> 00:07:29,220
+Yo...
+
+163
+00:07:29,560 --> 00:07:29,860
+No.
+
+164
+00:07:34,080 --> 00:07:35,540
+Soy lo que soy, Simon.
+
+165
+00:07:36,520 --> 00:07:38,260
+No puedo darte más que eso.
+
+166
+00:07:53,300 --> 00:07:55,140
+¿Puedes darme más detalles?
+
+167
+00:07:55,840 --> 00:07:57,100
+¿Algo más específico?
+
+168
+00:07:57,280 --> 00:07:58,420
+¿Qué le pasa a Grace?
+
+169
+00:07:59,680 --> 00:08:01,600
+Su número funciona mal.
+
+170
+00:08:01,600 --> 00:08:02,320
+Oh.
+
+171
+00:08:05,900 --> 00:08:08,480
+Está bajando, pero no parece querer arreglarlo.
+
+172
+00:08:09,080 --> 00:08:11,020
+Y encontramos a una mujer que trabaja con
+
+173
+00:08:11,020 --> 00:08:11,420
+1-1.
+
+174
+00:08:11,880 --> 00:08:13,360
+Tiene el número más alto que he visto.
+
+175
+00:08:13,560 --> 00:08:14,680
+Casi le llega al cuello.
+
+176
+00:08:15,120 --> 00:08:16,880
+Pero Grace no quiere hablar con ella y
+
+177
+00:08:16,880 --> 00:08:17,680
+nos hizo huir.
+
+178
+00:08:18,860 --> 00:08:21,360
+¿La mujer cuántos años tenía?
+
+179
+00:08:21,540 --> 00:08:22,640
+¿Cómo voy a saberlo?
+
+180
+00:08:23,020 --> 00:08:23,540
+Era...
+
+181
+00:08:23,540 --> 00:08:24,020
+vieja.
+
+182
+00:08:24,660 --> 00:08:25,780
+Con uniforme.
+
+183
+00:08:27,040 --> 00:08:27,560
+Amelia.
+
+184
+00:08:28,040 --> 00:08:29,100
+Se llama Amelia.
+
+185
+00:08:29,100 --> 00:08:31,600
+Tuve encuentros poco gratos con ella.
+
+186
+00:08:31,780 --> 00:08:33,480
+Trató de matarme un par de veces, de
+
+187
+00:08:33,480 --> 00:08:33,880
+hecho.
+
+188
+00:08:34,700 --> 00:08:36,600
+Aunque supongo que eso le haría ganarse tu
+
+189
+00:08:36,600 --> 00:08:37,100
+cariño.
+
+190
+00:08:37,940 --> 00:08:38,720
+Es peligrosa.
+
+191
+00:08:39,059 --> 00:08:40,240
+Yo me alejaría de ella.
+
+192
+00:08:43,179 --> 00:08:45,020
+¿Entonces hicimos bien en huir?
+
+193
+00:08:45,260 --> 00:08:47,940
+Los Apex se esfuerzan tanto en elevar sus
+
+194
+00:08:47,940 --> 00:08:48,400
+números.
+
+195
+00:08:48,840 --> 00:08:49,440
+¿Haciendo qué?
+
+196
+00:08:49,740 --> 00:08:53,400
+Destruyendo cosas, saqueando vagones, jugando a los soldados.
+
+197
+00:08:53,700 --> 00:08:55,380
+Piensa en lo que habrá hecho Amelia para
+
+198
+00:08:55,380 --> 00:08:57,020
+tener un número tan alto.
+
+199
+00:08:57,020 --> 00:08:59,820
+Y en cuanto a Grace, eres un chico
+
+200
+00:08:59,820 --> 00:09:00,360
+listo.
+
+201
+00:09:00,840 --> 00:09:03,180
+Seguro habrás pensado en qué significa el retroceso,
+
+202
+00:09:03,780 --> 00:09:05,760
+en qué hace que un número baje.
+
+203
+00:09:06,940 --> 00:09:08,320
+Los números son poder.
+
+204
+00:09:08,440 --> 00:09:09,600
+Los números son números.
+
+205
+00:09:09,800 --> 00:09:11,380
+Y se supone que deben bajar.
+
+206
+00:09:11,960 --> 00:09:13,560
+Dices que su número funciona mal.
+
+207
+00:09:14,000 --> 00:09:15,580
+Pero la verdad es que a ti no
+
+208
+00:09:15,580 --> 00:09:16,780
+te gusta cómo funciona.
+
+209
+00:09:17,200 --> 00:09:18,280
+¡Eso no es cierto!
+
+210
+00:09:18,440 --> 00:09:19,020
+¡No te creo!
+
+211
+00:09:19,160 --> 00:09:19,500
+¡Mientes!
+
+212
+00:09:19,960 --> 00:09:21,100
+Yo nunca miento.
+
+213
+00:09:21,420 --> 00:09:22,780
+Mientes todo el tiempo.
+
+214
+00:09:23,140 --> 00:09:25,240
+Pero nunca miento cuando digo la verdad.
+
+215
+00:09:29,840 --> 00:09:31,940
+¡No se comporta como debería!
+
+216
+00:09:32,180 --> 00:09:34,100
+¿Y cómo debería comportarse?
+
+217
+00:09:34,400 --> 00:09:36,620
+No es una de tus miniaturas, Simon.
+
+218
+00:09:36,900 --> 00:09:38,040
+¡Me excluye de todo!
+
+219
+00:09:44,600 --> 00:09:46,080
+Por favor, Samantha.
+
+220
+00:09:46,920 --> 00:09:48,160
+Debo saber por qué.
+
+221
+00:09:50,860 --> 00:09:51,940
+Está bien.
+
+222
+00:09:52,680 --> 00:09:54,720
+La única forma de saber qué es lo
+
+223
+00:09:54,720 --> 00:09:56,820
+que te oculta, es ver qué es lo
+
+224
+00:09:56,820 --> 00:09:57,660
+que te oculta.
+
+225
+00:09:58,100 --> 00:09:58,500
+¿Qué?
+
+226
+00:10:18,870 --> 00:10:21,590
+Debes extraer una cinta de sus recuerdos y
+
+227
+00:10:21,590 --> 00:10:22,430
+entrar en ellos.
+
+228
+00:10:22,870 --> 00:10:24,590
+Al no ser los tuyos, es seguro.
+
+229
+00:10:25,110 --> 00:10:27,790
+Pero entrar en tu propia cinta puede ser
+
+230
+00:10:27,790 --> 00:10:29,530
+impredecible y peligroso.
+
+231
+00:10:29,770 --> 00:10:31,010
+Sabía que tendrías algo.
+
+232
+00:10:31,730 --> 00:10:32,710
+Siempre tienes algo.
+
+233
+00:10:34,530 --> 00:10:35,510
+¡Pero, Simon!
+
+234
+00:10:35,930 --> 00:10:36,230
+¿Qué?
+
+235
+00:10:36,950 --> 00:10:39,050
+No siempre debemos saber qué hay en la
+
+236
+00:10:39,050 --> 00:10:39,890
+mente de alguien.
+
+237
+00:10:40,490 --> 00:10:42,490
+Y menos de alguien a quien queremos mucho.
+
+238
+00:10:43,450 --> 00:10:43,750
+Ya no es el momento.
+
+239
+00:10:43,750 --> 00:10:44,890
+Ya no soy un niño.
+
+240
+00:10:45,550 --> 00:10:46,330
+Sé lo que hago.
+
+241
+00:10:53,100 --> 00:10:53,860
+Ay, Simon.
+
+242
+00:10:54,760 --> 00:10:56,520
+No tienes ni idea.
